@@ -1,10 +1,10 @@
 # Schachtrainer (playable web version)
 
-Copyright (C) 2026 Meister Kyrindor. This program is free software: you can redistribute it and/or modify it under
+Copyright (C) 2026 geramaya. This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License version 3 or (at your option) any later version. The license text is in
 `LICENSE` next to this file.
 
-Source code: will be published at https://github.com/geramaya/schachtrainer
+Source code: https://github.com/geramaya/schachtrainer-public (GPL-3.0-or-later)
 
 Third-party parts in this build:
 
